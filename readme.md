@@ -1,0 +1,1 @@
+Just run main.py and each function will run seperatly :) first the db is created and filled with test data.
